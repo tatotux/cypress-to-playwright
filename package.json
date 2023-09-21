@@ -1,5 +1,5 @@
 {
-  "name": "@11joselu/cypress-to-playwright",
+  "name": "@tatotux/cypress-to-playwright",
   "version": "0.0.13",
   "description": "Automatic migration from cypress to playwright",
   "engines": {
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/11joselu/cypress-to-playwright.git"
+    "url": "git+https://github.com/tatotux/cypress-to-playwright.git"
   },
   "keywords": [
     "Cypress",
@@ -32,12 +32,12 @@
     "e2e",
     "test"
   ],
-  "author": "Jose Cabrera",
+  "author": "Tatotux",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/11joselu/cypress-to-playwright/issues"
+    "url": "https://github.com/tatotux/cypress-to-playwright/issues"
   },
-  "homepage": "https://github.com/11joselu/cypress-to-playwright#readme",
+  "homepage": "https://github.com/tatotux/cypress-to-playwright#readme",
   "devDependencies": {
     "@types/mocha": "10.0.1",
     "@types/node": "18.14.2",
